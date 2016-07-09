@@ -303,7 +303,7 @@
             themeLink: null,
             fbLink: "http://tinyurl.com/pacounek",
             youtubeLink: null,
-            website: null,
+            website: "http://tinyurl.com/gs88g43",
             intervalMessages: [],
             messageInterval: 5,
             songstats: false,
